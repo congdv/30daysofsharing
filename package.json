@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "date-fns": "^2.16.1",
+    "gray-matter": "^4.0.2",
     "next": "^10.0.0",
+    "postcss": "^8.2.4",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1",
+    "tailwindcss": "^2.0.2"
   }
 }
