@@ -9,7 +9,7 @@ Here, we have many active users on our slack, and a user named "@Cậu Làm Vư�
 
 > Thế nhưng "Lòng tôi rộng, nhưng lượng trời cứ chật", "Một cánh én nhỏ không làm nên mùa xuân". Rất mong các bạn có thể nhín chút thời gian tham gia cùng mình. Share link cũng tính nhé, nhưng có một yêu cầu duy nhất là mọi người hãy tóm tắt, đút kết lại nội dụng trong link đó, coi như là vừa để dễ chia sẻ cho người khác, vừa củng cố lại những gì mình rút ra được!"
 
-He just said, a new year with a new journey as he started new learning series in this slack.
+He just said, a new year with a new journey as he started new learning series in this slack in January 2021.
 
 Instead of saving all the posts on the channel, I thought why I could create my collection as I did in my notion. Be humble and share your learning; I made this repo and the [web app](http://31daysofsharing.com/) store all learning things from #30daysofsharing.
 
@@ -25,4 +25,4 @@ Thanks goes to these awesome people:
 - [@huytd](https://github.com/huytd)
 - [@ZeroX](https://github.com/ZeroX-DG)
 - [@thien](https://github.com/thien-do)
-- [@quannt](https://github.com/huytd)
+- [@quannt](https://github.com)
