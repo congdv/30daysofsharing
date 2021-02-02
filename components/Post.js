@@ -8,9 +8,20 @@ export default function Post({ post }) {
       <h5 className="text-center mt-3 font-light">
         <Date dateString={post.date} />
       </h5>
-      <div className="mt-3 content" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       <div className="mt-7 text-center">
-        <a className="bg-gray-50 p-2 rounded-full inline hover:bg-gray-100 hover:shadow-md" href={post.github ?? '#'} target="_blank">
+        <a
+          className="bg-gray-50 p-2 rounded-full inline hover:bg-gray-100 hover:shadow-md"
+          href={post.github ?? '#'}
+          target="_blank">
+          @{post.author}
+        </a>
+      </div>
+      <div className="mt-3 content" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+      <div className="mt-7">
+        <a
+          className="bg-gray-50 p-2 rounded-full inline hover:bg-gray-100 hover:shadow-md"
+          href={post.github ?? '#'}
+          target="_blank">
           @{post.author}
         </a>
       </div>
