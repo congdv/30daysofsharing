@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "30daysofsharing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,5 +18,7 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "author": "Cong Dao - congdaovan94@gmail.com",
+  "license": "MIT"
 }
