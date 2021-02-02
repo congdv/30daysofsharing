@@ -26,3 +26,4 @@ Thanks goes to these awesome people:
 - [@ZeroX](https://github.com/ZeroX-DG)
 - [@thien](https://github.com/thien-do)
 - [@quannt](https://github.com)
+- [@Blue Fox](https://github.com)
