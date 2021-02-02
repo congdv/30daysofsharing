@@ -11,7 +11,7 @@ Here, we have many active users on our slack, and a user named "@Cậu Làm Vư�
 
 He just said, a new year with a new journey as he started new learning series in this slack in January 2021.
 
-Instead of saving all the posts on the channel, I thought why I could create my collection as I did in my notion. Be humble and share your learning; I made this repo and the [web app](http://31daysofsharing.com/) store all learning things from #30daysofsharing.
+Instead of saving all the posts on the channel, I thought why I could create my collection as I did in my notion. Be humble and share your learning; I made this repo and the [web app](http://30daysofsharing.com/) store all learning things from #30daysofsharing.
 
 I hope this resource will be helpful for you on your learning journey. I will try my best to keep this repository update.
 
