@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { getSortedPostsData } from '../lib/posts';
 import Post from '../components/Post';
+import Footer from '../components/Footer';
 
 export default function Home({ allPostsData }) {
   return (
@@ -18,7 +19,7 @@ export default function Home({ allPostsData }) {
           <Post key={key} post={post} />
         ))}
       </main>
-      <footer></footer>
+      <Footer/>
     </>
   );
 }
